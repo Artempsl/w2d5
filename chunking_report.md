@@ -53,32 +53,6 @@
 ## All Chunking Visualizations (6th Stage)
 
 ### Character-based Chunk Size Distribution
-![Character-based Chunk Size Distribution](chunk_images\char_chunk_distribution.png)
-
-### Token-based Chunk Size Distribution
-![Token-based Chunk Size Distribution](chunk_images\token_chunk_distribution.png)
-
-### Sentence Break Ratio by Chunking Strategy
-![Sentence Break Ratio by Chunking Strategy](chunk_images\sentence_break_ratio.png)
-
-
-
-## All Chunking Visualizations (6th Stage)
-
-### Character-based Chunk Size Distribution
-![Character-based Chunk Size Distribution](chunk_images\char_chunk_distribution.png)
-
-### Token-based Chunk Size Distribution
-![Token-based Chunk Size Distribution](chunk_images\token_chunk_distribution.png)
-
-### Sentence Break Ratio by Chunking Strategy
-![Sentence Break Ratio by Chunking Strategy](chunk_images\sentence_break_ratio.png)
-
-
-
-## All Chunking Visualizations (6th Stage)
-
-### Character-based Chunk Size Distribution
 ![Character-based Chunk Size Distribution](chunk_images/char_chunk_distribution.png)
 
 ### Token-based Chunk Size Distribution
